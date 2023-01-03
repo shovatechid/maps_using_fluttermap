@@ -1,4 +1,4 @@
-# fluttermap_example
+# Simple Map on Flutter
 
 Source code ini dibuat untuk menampilkan Map. Library yang digunakan untuk menampilkan map adalah flutter_map. Library flutter_map dapat dijadikan alternatif jika tidak ingin menggunakan Google Map pada Flutter.
 
