@@ -1,15 +1,16 @@
 # fluttermap_example
 
-A new Flutter project.
+Source code ini dibuat untuk menampilkan Map. Library yang digunakan untuk menampilkan map adalah flutter_map. Library flutter_map dapat dijadikan alternatif jika tidak ingin menggunakan Google Map pada Flutter.
 
-## Getting Started
+This source code is made to display Map. The library used to display maps is flutter_map. The flutter_map library can be used as an alternative if you don't want to use Google Map in Flutter.
 
-This project is a starting point for a Flutter application.
+## Dokumentasi
+
+Source code ini dibuat untuk menampilkan Map pada Flutter tanpa menggunakan Google Map. Library yang digunakan untuk menampilkan map adalah flutter_map.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [flutter_map: https://pub.dev/packages/flutter_map]
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
